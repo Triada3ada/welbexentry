@@ -9,7 +9,7 @@ NODE_ENV = production
 PORT
 
 MONGO_URI
-
+---------------
 npm i 
 
 cd frontend
